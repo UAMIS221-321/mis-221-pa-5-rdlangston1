@@ -1,0 +1,15 @@
+/Users/ryanlangston/Desktop/MIS 221/PA5/bin/Debug/net7.0/PA5
+/Users/ryanlangston/Desktop/MIS 221/PA5/bin/Debug/net7.0/PA5.deps.json
+/Users/ryanlangston/Desktop/MIS 221/PA5/bin/Debug/net7.0/PA5.runtimeconfig.json
+/Users/ryanlangston/Desktop/MIS 221/PA5/bin/Debug/net7.0/PA5.dll
+/Users/ryanlangston/Desktop/MIS 221/PA5/bin/Debug/net7.0/PA5.pdb
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/PA5.csproj.AssemblyReference.cache
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/PA5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/PA5.AssemblyInfoInputs.cache
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/PA5.AssemblyInfo.cs
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/PA5.csproj.CoreCompileInputs.cache
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/PA5.dll
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/refint/PA5.dll
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/PA5.pdb
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/PA5.genruntimeconfig.cache
+/Users/ryanlangston/Desktop/MIS 221/PA5/obj/Debug/net7.0/ref/PA5.dll
